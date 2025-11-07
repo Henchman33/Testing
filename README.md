@@ -1,7 +1,7 @@
 # DomainTools
 # AD Domain Inventory Testing Repo
 
-# Active Directory Infrastructure Documentation Script - Enhanced Version 5
+# Active Directory Infrastructure Documentation Script - Enhanced Version 2
 
 1. Run this on a Domain Controller with appropriate permissions using PowerShell ISE.
 
